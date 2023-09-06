@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/Bielzinh360-000?style=for-the-badge&logo=instagram)](https://instagram.com/bielzinh360?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
 
 ## Teste o App
-```Na pasta "APP TESTE" do projeto deste repositorio deixei um arquivo .APK para que você possa instalar e Testar o APP.```
+```Na pasta```[`APP TESTE`](https://github.com/Gabrielh360/meu_primeiro_app/tree/main/APP%20TESTE)```do projeto deste repositorio deixei um arquivo .APK para que você possa instalar e Testar o APP.```
 
 ## Como Testar Essa Funcionalidade ?
 ```Depois de instalar o APP no seu celular basta ir nas configurações do seu celular e mudar o idioma do seu celular, normalmente fica localizado em "Idioma e Teclado" e Instantaneamente irá alterar o idioma do app.```
